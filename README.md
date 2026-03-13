@@ -21,4 +21,4 @@
 
 ### Contact
 - Site: **[rock.xieth.top](https://rock.xieth.top)**
-- Email: `linchuan.dev@example.com`
+- Email: `xiewangfuya@gmail.com`
