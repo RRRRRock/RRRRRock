@@ -26,16 +26,17 @@ I am a backend engineer focused on Web3 infrastructure, trading systems, and hig
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=RRRRRock&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viper's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRRRRock&layout=compact&theme=buefy&hide_border=true" alt="Top languages" /> |
 | --- | --- |
 
-#### Top Repositories
+## Top Repositories
 
-<a href="https://github.com/RRRRRock/RRRRRock.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RRRRRock&repo=RRRRRock.github.io&theme=buefy" />
-</a>
-<a href="https://github.com/RRRRRock/RRRRRock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RRRRRock&repo=RRRRRock&theme=buefy" />
-</a>
+<p align="left">
+  <a href="https://github.com/RRRRRock/RRRRRock.github.io">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RRRRRock&repo=RRRRRock.github.io&theme=buefy&hide_border=false&description_lines_count=2&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/RRRRRock/RRRRRock">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RRRRRock&repo=RRRRRock&theme=buefy&hide_border=false&description_lines_count=2&cache_seconds=1800" />
+  </a>
+</p>
 
-<br />
 <br />
 
 <p align="right">
