@@ -23,6 +23,6 @@ I am a backend engineer focused on Web3 infrastructure, trading systems, and hig
 <code><img height="22" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
 <code><img height="22" alt="kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></code>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViperHua&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viper's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViperHua&layout=compact&theme=buefy&hide_border=true" alt="Top languages" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViperHua&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&cache_seconds=1800&v=20260315" alt="Viper's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViperHua&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800&v=20260315" alt="Top languages" /> |
 | --- | --- |
 
